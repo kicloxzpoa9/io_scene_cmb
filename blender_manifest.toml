@@ -1,0 +1,25 @@
+schema_version = "1.0.0"
+
+id = "io_scene_cmb"
+version = "1.1.0"
+name = "CMB Import"
+tagline = "A Extension to Import Grezzo's CMB files in Blender"
+maintainer = "M-1 (Discord: M-1#1972)"
+
+type = "add-on"
+
+blender_version_min = "5.0.1"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+tags = ["Import-Export"]
+
+"location":     "File > Import",
+"warning":      "This add-on is an early release and bugs may occur",
+"description":  "Import Grezzo's \"Ctr Model Binary\" file(s)",
+"wiki_url":     "",
+"tracker_url":  "",
+}
+
